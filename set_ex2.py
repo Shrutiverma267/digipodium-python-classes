@@ -24,3 +24,9 @@ a.difference(b)
 #use - operator on b
 b - a
 print(b-a)
+
+# set symetric difference function on a
+a.symmetric_difference(b)
+
+#use ^ operator
+print(a^b)
