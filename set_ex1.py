@@ -23,7 +23,7 @@ print(my_set)
 my_set.update([2,3,4])
 print(my_set)
 
-#add list and tuple
+#add list and set
 my_set.update([4,5],{1,2,3})
 print(my_set)
 
